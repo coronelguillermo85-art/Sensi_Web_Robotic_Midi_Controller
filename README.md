@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🎹 SENSI WEB MIDI CONTROLLER</h1>
+<h1>🎹 SENSI WEB ROBOTIC MIDI CONTROLLER</h1>
 
 <h3>Secuenciador MIDI Heurístico y Entorno de Composición Generativa</h3>
 
