@@ -1,13 +1,32 @@
 <div align="center">
 
-<h1>🎹 SENSI WEB MIDI CONTROLLER </h1>
+<h1>🎹 SENSI WEB MIDI CONTROLLER</h1>
 
 <h3>Secuenciador MIDI Heurístico y Entorno de Composición Generativa</h3>
 
 <p>
-Aplicación musical experimental basada en navegador que combina
-secuenciación MIDI, generación algorítmica, improvisación asistida y
-herramientas de exploración sonora en tiempo real.
+Aplicación musical experimental basada en navegador que combina secuenciación MIDI,
+generación algorítmica, improvisación asistida y herramientas de exploración sonora en tiempo real.
+</p>
+
+<p>
+
+<a href="https://sensi-web-robotic-midi-controller.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/PROBAR%20SENSI%20WEB-00E5FF?style=for-the-badge&logo=vercel&logoColor=black">
+</a>
+
+</p>
+
+<p>
+
+<b>Demo en línea:</b><br>
+
+<a href="https://sensi-web-robotic-midi-controller.vercel.app/">
+
+https://sensi-web-robotic-midi-controller.vercel.app/
+
+</a>
+
 </p>
 
 </div>
@@ -47,6 +66,22 @@ herramientas de exploración sonora en tiempo real.
 
 <img src="https://img.shields.io/badge/Web_Audio_API-FF00AA?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel">
+
+</p>
+
+<hr>
+
+<h2>🌐 Probar la aplicación</h2>
+
+<p align="center">
+
+<a href="https://sensi-web-robotic-midi-controller.vercel.app/">
+
+<b>🎹 Abrir SENSI WEB MIDI CONTROLLER</b>
+
+</a>
+
 </p>
 
 <hr>
@@ -60,7 +95,9 @@ cd sensi-web
 </pre>
 
 <p>
+
 Abrir directamente:
+
 </p>
 
 <pre>
@@ -68,7 +105,9 @@ index.html
 </pre>
 
 <p>
+
 No requiere instalación adicional.
+
 </p>
 
 <hr>
@@ -76,7 +115,8 @@ No requiere instalación adicional.
 <h2>🎹 Uso</h2>
 
 <ol>
-<li>Abrir la aplicación en Google Chrome, Edge u Opera.</li>
+
+<li>Abrir la aplicación en Google Chrome, Microsoft Edge u Opera.</li>
 
 <li>Conectar un controlador MIDI compatible (opcional).</li>
 
@@ -87,17 +127,17 @@ No requiere instalación adicional.
 <li>Aplicar <b>EVOLUCIONAR</b> para modificar patrones existentes.</li>
 
 <li>Importar archivos MIDI para crear acompañamientos.</li>
+
 </ol>
 
 <hr>
-<img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/297d1737-5b8b-4714-908a-e39a24759d6f" />
-
-https://sensi-web-robotic-midi-controller.vercel.app/
 
 <h2>🌍 Despliegue</h2>
 
 <p>
-SENSI WEB puede desplegarse fácilmente como una aplicación estática.
+
+SENSI WEB es una aplicación estática y puede desplegarse fácilmente en:
+
 </p>
 
 <ul>
@@ -178,4 +218,3 @@ Desarrollado por <b>Guillermo Coronel</b>
 </p>
 
 </div>
-
