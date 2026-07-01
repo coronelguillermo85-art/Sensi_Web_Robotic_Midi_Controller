@@ -212,6 +212,7 @@ Interfaces Musicales Experimentales • MIDI • Sistemas Generativos
 </p>
 
 <p>
+<img width="1254" height="1254" alt="9f441911-f4ba-4308-8e14-4a155123978e" src="https://github.com/user-attachments/assets/ad265da1-0a8b-4c7f-b0af-85625787c5a9" />
 
 Desarrollado por <b>Guillermo Coronel</b>
 
