@@ -92,6 +92,8 @@ No requiere instalación adicional.
 <hr>
 <img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/297d1737-5b8b-4714-908a-e39a24759d6f" />
 
+https://sensi-web-robotic-midi-controller.vercel.app/
+
 <h2>🌍 Despliegue</h2>
 
 <p>
@@ -121,7 +123,6 @@ index.html
 <hr>
 
 <h2>🧠 Filosofía</h2>
-<img width="1913" height="808" alt="image" src="https://github.com/user-attachments/assets/f8c32e10-3765-4713-8b37-6cd7aeb311d3" />
 
 <blockquote>
 
