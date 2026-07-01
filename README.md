@@ -90,6 +90,7 @@ No requiere instalación adicional.
 </ol>
 
 <hr>
+<img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/297d1737-5b8b-4714-908a-e39a24759d6f" />
 
 <h2>🌍 Despliegue</h2>
 
