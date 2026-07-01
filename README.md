@@ -120,6 +120,7 @@ index.html
 <hr>
 
 <h2>🧠 Filosofía</h2>
+<img width="1913" height="808" alt="image" src="https://github.com/user-attachments/assets/f8c32e10-3765-4713-8b37-6cd7aeb311d3" />
 
 <blockquote>
 
